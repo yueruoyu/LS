@@ -1,0 +1,31 @@
+en:
+    welcome: "Welcome to Calculator! Enter your name:"
+    valid_name: "Hmmm... Please make sure to enter a valid name"
+    ask_first_number: "What's the first number?"
+    ask_second_number: "What's the second number?"
+    valid_number: "Please make sure to input a valid number"
+    operator_message: |
+        "What's the operation? 
+        1) add
+        2) subtract
+        3) multiply
+        4) divide"
+    valid_operator: "Please input number 1/2/3/4 only"
+    calculate_again: "Do you want to caluclate again? Y/N"
+    calcuation_result: "the result is "
+
+ch:
+    welcome: "欢迎使用计算器！ 请输入您的姓名："
+    valid_name: "嗯。。。请输入一个有效的名字"
+    ask_first_number: "请输入第一个数字："
+    ask_second_number: "请输入第二个数字："
+    valid_number: "请输入有效数字："
+    operator_message: |
+        "请选择操作：
+        1) 加法
+        2) 减法
+        3) 乘法
+        4) 除法"
+    valid_operator: "请输入操作代号：1/2/3/4"
+    calculate_again: "您还想继续使用吗？是/否"
+    calcuation_result: "结果是 "
